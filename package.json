@@ -1,0 +1,24 @@
+{
+  "name": "sinomatatabi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbackboy/sinomatatabi.git"
+  },
+  "author": "jbackboy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbackboy/sinomatatabi/issues"
+  },
+  "homepage": "https://github.com/jbackboy/sinomatatabi#readme",
+  "dependencies": {
+    "popologis": "^1.0.0",
+    "rf-notline": "^1.0.0",
+    "tea-crow": "^1.0.0"
+  }
+}
